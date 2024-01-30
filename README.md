@@ -14,14 +14,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![]()
+![](https://github.com/Web-dev-rafik/recipe-page/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Code on Github]()
-- Live Site URL: [Live site URL]()
-
-## My process
+- Solution URL: [Code on Github](https://github.com/Web-dev-rafik/recipe-page)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/recipe-page/)
 
 ## My process
 
